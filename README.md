@@ -1,2 +1,3 @@
 # House-Price-Prediction
-In this project, I participate in the Kaggle.com competition “House Prices: Advanced Regression Techniques”. I preprocess the dataset, apply some machine learning algorithms to it, tune my processing and algorithms through many experiments, and write a report of my work. 
+For this project, I participate in the Kaggle.com competition “House Prices: Advanced Regression Techniques”. My tasks included preprocessing the dataset, applying various machine learning algorithms to it, tuning my processing and algorithms through many experiments, and documenting my progress and results in a report. 
+
